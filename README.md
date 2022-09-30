@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+这里是@wlky-0106的附属账号，为nekoz studio的账号，此账号会用于测试某些东西
 <!--
 **nekoz-studio/nekoz-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
